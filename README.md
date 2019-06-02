@@ -6,7 +6,7 @@ This JSON file has the format required to be used in [Saris by Club Algoritmia E
 
 The purpose of this tool is to use it in codeforces private contest (mashups).
 
-For other contest we can use [Codeforces API}(https://codeforces.com/api/help).
+For other contest we can use [Codeforces API](https://codeforces.com/api/help).
 
 ### Installation
 
