@@ -20,7 +20,7 @@ To run this program you need to have installed C++11 in your computer and run th
 
 `g++ generateLogs.cpp -std=c++11`
 
-Once the file is compiled, then run:
+Once the file is compiled run:
 
 `./a.out numberOfFileStatus startDateOfContest`
 
